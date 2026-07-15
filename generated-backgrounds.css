@@ -7,18 +7,18 @@
 :root {
   --background-count: 12;
   --cycle-time: calc(var(--image-time, 30s) * 12);
-  --background-image-1: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Massage.jpg?v=d1b2daf26460");
-  --background-image-2: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/KDA.jpg?v=c413ba08c8c5");
-  --background-image-3: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Suck.gif?v=284b66f527a6");
-  --background-image-4: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Kitsune.jpg?v=6c54cd1daca5");
-  --background-image-5: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Miko.jpg?v=5b7396f191f0");
-  --background-image-6: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Draenei.jpg?v=3473f67c663c");
-  --background-image-7: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DraeneiRed.jpg?v=085ee307f4bf");
-  --background-image-8: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/CatgirlTriple.jpg?v=885f20124484");
-  --background-image-9: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Ahri.jpg?v=5ca89bf80c18");
-  --background-image-10: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Demoness.jpg?v=ff301393f67f");
-  --background-image-11: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DreaneiBlue.jpg?v=131a015e1d1e");
-  --background-image-12: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Tease-ezgif.com-optimize.gif?v=e6557915852d");
+  --background-image-1: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Demoness.jpg?v=ff301393f67f");
+  --background-image-2: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Tease-ezgif.com-optimize.gif?v=e6557915852d");
+  --background-image-3: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Ahri.jpg?v=5ca89bf80c18");
+  --background-image-4: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/KDA.jpg?v=c413ba08c8c5");
+  --background-image-5: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Massage.jpg?v=d1b2daf26460");
+  --background-image-6: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DraeneiRed.jpg?v=085ee307f4bf");
+  --background-image-7: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Kitsune.jpg?v=6c54cd1daca5");
+  --background-image-8: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Miko.jpg?v=5b7396f191f0");
+  --background-image-9: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Suck.gif?v=284b66f527a6");
+  --background-image-10: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/CatgirlTriple.jpg?v=885f20124484");
+  --background-image-11: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Draenei.jpg?v=3473f67c663c");
+  --background-image-12: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DreaneiBlue.jpg?v=131a015e1d1e");
   --theme-background-image: var(--background-image-1);
 }
 
