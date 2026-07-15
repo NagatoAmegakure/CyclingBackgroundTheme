@@ -16,8 +16,8 @@ BACKGROUND_DIR = ROOT_DIR / "images"
 OUTPUT_FILE = ROOT_DIR / "generated-backgrounds.css"
 
 RAW_BASE = (
-    f"https://cdn.jsdelivr.net/gh/"
-    f"{REPO_OWNER}/{REPO_NAME}@{BRANCH}"
+    f"https://raw.githubusercontent.com/"
+    f"{REPO_OWNER}/{REPO_NAME}/{BRANCH}"
 )
 
 SUPPORTED_EXTENSIONS = {
