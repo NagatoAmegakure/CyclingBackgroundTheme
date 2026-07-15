@@ -18,6 +18,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: randomize-backgrounds
+  cancel-in-progress: false
+
 jobs:
   randomize:
     runs-on: ubuntu-latest
@@ -46,4 +50,6 @@ jobs:
 
           git add generated-backgrounds.css
           git commit -m "Randomize background order"
-          git push
+
+          git pull --rebase origin main
+          git push origin main
