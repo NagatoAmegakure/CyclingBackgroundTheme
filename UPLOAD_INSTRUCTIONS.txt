@@ -1,0 +1,19 @@
+UPLOAD STRUCTURE
+
+Upload these to the root of:
+https://github.com/NagatoAmegakure/CyclingBackgroundTheme
+
+CyclingBackground.css
+CyclingBackground.theme.css
+generated-backgrounds.css
+generate_background_css.py
+images/
+.github/workflows/randomize-backgrounds.yml
+
+IMPORTANT:
+- Put your actual background images inside images/.
+- Put Suck.gif inside images/ if you want the current home icon to keep working.
+- CyclingBackground.theme.css is the tiny file that goes in your local BetterDiscord themes folder.
+- CyclingBackground.css stays on GitHub.
+- The GitHub Action runs daily at 6:17 AM America/Chicago.
+- You can also run it manually from GitHub's Actions tab.

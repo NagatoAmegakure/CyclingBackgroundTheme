@@ -1,11 +1,11 @@
 /**
  * @name CyclingBackground
  * @author thekrum
- * @version 2.0.0
+ * @version 3.0.0
  * @description Standalone custom Discord theme with automatic randomized cycling backgrounds. Based on NotAnotherAnimeTheme by puckzxz.
  */
 
-@import url("http://127.0.0.1:8000/generated-backgrounds.css");
+@import url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/generated-backgrounds.css");
 
 
 /* =========================================================
@@ -47,7 +47,7 @@
   */
 
   --home-icon-image:
-    url("http://127.0.0.1:8000/images/Suck.gif");
+    url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Suck.gif");
 
 
   /*
