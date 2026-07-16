@@ -5,20 +5,21 @@
  */
 
 :root {
-  --background-count: 12;
-  --cycle-time: calc(var(--image-time, 30s) * 12);
-  --background-image-1: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Miko.jpg?v=5b7396f191f0");
-  --background-image-2: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Ahri.jpg?v=5ca89bf80c18");
-  --background-image-3: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Tease-ezgif.com-optimize.gif?v=e6557915852d");
+  --background-count: 13;
+  --cycle-time: calc(var(--image-time, 30s) * 13);
+  --background-image-1: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/dmbv8dl-29b77ed9-db89-4751-994c-478f05971eb8.VideoQualities.res_720p.4ae8a735b1834730b6a6a01aaf63e0f1-ezgif.com-video-to-gif-converter.gif?v=258e54e5569b");
+  --background-image-2: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DraeneiRed.jpg?v=085ee307f4bf");
+  --background-image-3: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/CatgirlTriple.jpg?v=885f20124484");
   --background-image-4: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Demoness.jpg?v=ff301393f67f");
-  --background-image-5: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Draenei.jpg?v=3473f67c663c");
-  --background-image-6: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/CatgirlTriple.jpg?v=885f20124484");
-  --background-image-7: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Kitsune.jpg?v=6c54cd1daca5");
-  --background-image-8: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Suck.gif?v=284b66f527a6");
-  --background-image-9: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/KDA.jpg?v=c413ba08c8c5");
-  --background-image-10: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DraeneiRed.jpg?v=085ee307f4bf");
-  --background-image-11: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/dmck7tw-c62421a9-dc4f-4693-8d50-2e0d32aa56f3.VideoQualities.res_360p.3f7ae0f9f092401e807193147b16733e-ezgif.com-video-to-gif-converter.gif?v=f7e97cf298b9");
-  --background-image-12: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DreaneiBlue.jpg?v=131a015e1d1e");
+  --background-image-5: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DreaneiBlue.jpg?v=131a015e1d1e");
+  --background-image-6: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Tease-ezgif.com-optimize.gif?v=e6557915852d");
+  --background-image-7: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Suck.gif?v=284b66f527a6");
+  --background-image-8: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/KDA.jpg?v=c413ba08c8c5");
+  --background-image-9: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Draenei.jpg?v=3473f67c663c");
+  --background-image-10: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/dmck7tw-c62421a9-dc4f-4693-8d50-2e0d32aa56f3.VideoQualities.res_360p.3f7ae0f9f092401e807193147b16733e-ezgif.com-video-to-gif-converter.gif?v=f7e97cf298b9");
+  --background-image-11: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Kitsune.jpg?v=6c54cd1daca5");
+  --background-image-12: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Ahri.jpg?v=5ca89bf80c18");
+  --background-image-13: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Miko.jpg?v=5b7396f191f0");
   --theme-background-image: var(--background-image-1);
 }
 
@@ -69,58 +70,58 @@
 
 @keyframes background-bottom-images {
   0%,
-  8.333333% {
+  7.692308% {
     background-image: var(--background-image-1);
   }
-  8.334333%,
-  25% {
+  7.693308%,
+  23.076923% {
     background-image: var(--background-image-3);
   }
-  25.001%,
-  41.666667% {
+  23.077923%,
+  38.461538% {
     background-image: var(--background-image-5);
   }
-  41.667667%,
-  58.333333% {
+  38.462538%,
+  53.846154% {
     background-image: var(--background-image-7);
   }
-  58.334333%,
-  75% {
+  53.847154%,
+  69.230769% {
     background-image: var(--background-image-9);
   }
-  75.001%,
-  91.666667% {
+  69.231769%,
+  84.615385% {
     background-image: var(--background-image-11);
   }
-  91.667667%,
+  84.616385%,
   100% {
-    background-image: var(--background-image-1);
+    background-image: var(--background-image-13);
   }
 }
 
 @keyframes background-top-images {
   0%,
-  16.666667% {
+  15.384615% {
     background-image: var(--background-image-2);
   }
-  16.667667%,
-  33.333333% {
+  15.385615%,
+  30.769231% {
     background-image: var(--background-image-4);
   }
-  33.334333%,
-  50% {
+  30.770231%,
+  46.153846% {
     background-image: var(--background-image-6);
   }
-  50.001%,
-  66.666667% {
+  46.154846%,
+  61.538462% {
     background-image: var(--background-image-8);
   }
-  66.667667%,
-  83.333333% {
+  61.539462%,
+  76.923077% {
     background-image: var(--background-image-10);
   }
-  83.334333%,
-  100% {
+  76.924077%,
+  92.307692% {
     background-image: var(--background-image-12);
   }
 }
@@ -129,76 +130,85 @@
   0% {
     opacity: 0;
   }
-  7.5% {
+  6.923077% {
     opacity: 0;
   }
-  8.333333% {
+  7.692308% {
     opacity: 1;
   }
-  15.833333% {
+  14.615385% {
     opacity: 1;
   }
-  16.666667% {
+  15.384615% {
     opacity: 0;
   }
-  24.166667% {
+  22.307692% {
     opacity: 0;
   }
-  25% {
+  23.076923% {
     opacity: 1;
   }
-  32.5% {
+  30% {
     opacity: 1;
   }
-  33.333333% {
+  30.769231% {
     opacity: 0;
   }
-  40.833333% {
+  37.692308% {
     opacity: 0;
   }
-  41.666667% {
+  38.461538% {
     opacity: 1;
   }
-  49.166667% {
+  45.384615% {
     opacity: 1;
   }
-  50% {
+  46.153846% {
     opacity: 0;
   }
-  57.5% {
+  53.076923% {
     opacity: 0;
   }
-  58.333333% {
+  53.846154% {
     opacity: 1;
   }
-  65.833333% {
+  60.769231% {
     opacity: 1;
   }
-  66.666667% {
+  61.538462% {
     opacity: 0;
   }
-  74.166667% {
+  68.461538% {
     opacity: 0;
   }
-  75% {
+  69.230769% {
     opacity: 1;
   }
-  82.5% {
+  76.153846% {
     opacity: 1;
   }
-  83.333333% {
+  76.923077% {
     opacity: 0;
   }
-  90.833333% {
+  83.846154% {
     opacity: 0;
   }
-  91.666667% {
+  84.615385% {
     opacity: 1;
   }
-  99.166667% {
+  91.538462% {
     opacity: 1;
+  }
+  92.307692% {
+    opacity: 0;
   }
   100% {
     opacity: 0;
   }
 }
+
+/*
+ * Note: with an odd number of images, the final image-to-first-image
+ * loop is an instant layer reset. Use an even image count for a fully
+ * seamless crossfade around the entire loop.
+ */
