@@ -5,21 +5,32 @@
  */
 
 :root {
-  --background-count: 13;
-  --cycle-time: calc(var(--image-time, 30s) * 13);
+  --background-count: 24;
+  --cycle-time: calc(var(--image-time, 30s) * 24);
   --background-image-1: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/dmbv8dl-29b77ed9-db89-4751-994c-478f05971eb8.VideoQualities.res_720p.4ae8a735b1834730b6a6a01aaf63e0f1-ezgif.com-video-to-gif-converter.gif?v=258e54e5569b");
-  --background-image-2: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DraeneiRed.jpg?v=085ee307f4bf");
-  --background-image-3: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/CatgirlTriple.jpg?v=885f20124484");
+  --background-image-2: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/366581db-0a09-4340-bf21-2d3cbf403ba7.jpg?v=70dad0845077");
+  --background-image-3: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/00012-149444329.png?v=924433dbf2e1");
   --background-image-4: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Demoness.jpg?v=ff301393f67f");
-  --background-image-5: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DreaneiBlue.jpg?v=131a015e1d1e");
-  --background-image-6: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Tease-ezgif.com-optimize.gif?v=e6557915852d");
-  --background-image-7: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Suck.gif?v=284b66f527a6");
-  --background-image-8: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/KDA.jpg?v=c413ba08c8c5");
-  --background-image-9: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Draenei.jpg?v=3473f67c663c");
-  --background-image-10: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/dmck7tw-c62421a9-dc4f-4693-8d50-2e0d32aa56f3.VideoQualities.res_360p.3f7ae0f9f092401e807193147b16733e-ezgif.com-video-to-gif-converter.gif?v=f7e97cf298b9");
-  --background-image-11: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Kitsune.jpg?v=6c54cd1daca5");
-  --background-image-12: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Ahri.jpg?v=5ca89bf80c18");
-  --background-image-13: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Miko.jpg?v=5b7396f191f0");
+  --background-image-5: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/CatgirlTriple.jpg?v=885f20124484");
+  --background-image-6: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/image%20%281%29.png?v=87cae315e245");
+  --background-image-7: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/dmck7tw-c62421a9-dc4f-4693-8d50-2e0d32aa56f3.VideoQualities.res_360p.3f7ae0f9f092401e807193147b16733e-ezgif.com-video-to-gif-converter.gif?v=f7e97cf298b9");
+  --background-image-8: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/68f090c9-1177-40fc-b646-943a83f605cc.jpg?v=b616e20a7c62");
+  --background-image-9: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DraeneiRed.jpg?v=085ee307f4bf");
+  --background-image-10: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/KDA.jpg?v=c413ba08c8c5");
+  --background-image-11: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/00006-1011779270.png?v=737b297bc48d");
+  --background-image-12: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Miko.jpg?v=5b7396f191f0");
+  --background-image-13: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/dffdd100-ea93-4cc7-ac8e-d1c070189ed1.jpg?v=4468cb1c23e6");
+  --background-image-14: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Demoness.png?v=bc65119b7dfb");
+  --background-image-15: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Tease-ezgif.com-optimize.gif?v=e6557915852d");
+  --background-image-16: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/00008-2689074788.png?v=653b11cd390b");
+  --background-image-17: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Suck.gif?v=284b66f527a6");
+  --background-image-18: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/DreaneiBlue.jpg?v=131a015e1d1e");
+  --background-image-19: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/image%20%2816%29.png?v=a046da1d4e43");
+  --background-image-20: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Ahri.jpg?v=5ca89bf80c18");
+  --background-image-21: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/84f274cd-b123-4d96-b4d6-591950b84b58.jpg?v=4250bd9b8b17");
+  --background-image-22: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Kitsune.jpg?v=6c54cd1daca5");
+  --background-image-23: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/image%20%282%29.png?v=f1ec3b6d58fd");
+  --background-image-24: url("https://raw.githubusercontent.com/NagatoAmegakure/CyclingBackgroundTheme/main/images/Draenei.jpg?v=3473f67c663c");
   --theme-background-image: var(--background-image-1);
 }
 
@@ -70,59 +81,107 @@
 
 @keyframes background-bottom-images {
   0%,
-  7.692308% {
+  4.166667% {
     background-image: var(--background-image-1);
   }
-  7.693308%,
-  23.076923% {
+  4.167667%,
+  12.5% {
     background-image: var(--background-image-3);
   }
-  23.077923%,
-  38.461538% {
+  12.501%,
+  20.833333% {
     background-image: var(--background-image-5);
   }
-  38.462538%,
-  53.846154% {
+  20.834333%,
+  29.166667% {
     background-image: var(--background-image-7);
   }
-  53.847154%,
-  69.230769% {
+  29.167667%,
+  37.5% {
     background-image: var(--background-image-9);
   }
-  69.231769%,
-  84.615385% {
+  37.501%,
+  45.833333% {
     background-image: var(--background-image-11);
   }
-  84.616385%,
-  100% {
+  45.834333%,
+  54.166667% {
     background-image: var(--background-image-13);
+  }
+  54.167667%,
+  62.5% {
+    background-image: var(--background-image-15);
+  }
+  62.501%,
+  70.833333% {
+    background-image: var(--background-image-17);
+  }
+  70.834333%,
+  79.166667% {
+    background-image: var(--background-image-19);
+  }
+  79.167667%,
+  87.5% {
+    background-image: var(--background-image-21);
+  }
+  87.501%,
+  95.833333% {
+    background-image: var(--background-image-23);
+  }
+  95.834333%,
+  100% {
+    background-image: var(--background-image-1);
   }
 }
 
 @keyframes background-top-images {
   0%,
-  15.384615% {
+  8.333333% {
     background-image: var(--background-image-2);
   }
-  15.385615%,
-  30.769231% {
+  8.334333%,
+  16.666667% {
     background-image: var(--background-image-4);
   }
-  30.770231%,
-  46.153846% {
+  16.667667%,
+  25% {
     background-image: var(--background-image-6);
   }
-  46.154846%,
-  61.538462% {
+  25.001%,
+  33.333333% {
     background-image: var(--background-image-8);
   }
-  61.539462%,
-  76.923077% {
+  33.334333%,
+  41.666667% {
     background-image: var(--background-image-10);
   }
-  76.924077%,
-  92.307692% {
+  41.667667%,
+  50% {
     background-image: var(--background-image-12);
+  }
+  50.001%,
+  58.333333% {
+    background-image: var(--background-image-14);
+  }
+  58.334333%,
+  66.666667% {
+    background-image: var(--background-image-16);
+  }
+  66.667667%,
+  75% {
+    background-image: var(--background-image-18);
+  }
+  75.001%,
+  83.333333% {
+    background-image: var(--background-image-20);
+  }
+  83.334333%,
+  91.666667% {
+    background-image: var(--background-image-22);
+  }
+  91.667667%,
+  100% {
+    background-image: var(--background-image-24);
   }
 }
 
@@ -130,85 +189,148 @@
   0% {
     opacity: 0;
   }
-  6.923077% {
+  3.75% {
     opacity: 0;
   }
-  7.692308% {
+  4.166667% {
     opacity: 1;
   }
-  14.615385% {
+  7.916667% {
     opacity: 1;
   }
-  15.384615% {
+  8.333333% {
     opacity: 0;
   }
-  22.307692% {
+  12.083333% {
     opacity: 0;
   }
-  23.076923% {
+  12.5% {
     opacity: 1;
   }
-  30% {
+  16.25% {
     opacity: 1;
   }
-  30.769231% {
+  16.666667% {
     opacity: 0;
   }
-  37.692308% {
+  20.416667% {
     opacity: 0;
   }
-  38.461538% {
+  20.833333% {
     opacity: 1;
   }
-  45.384615% {
+  24.583333% {
     opacity: 1;
   }
-  46.153846% {
+  25% {
     opacity: 0;
   }
-  53.076923% {
+  28.75% {
     opacity: 0;
   }
-  53.846154% {
+  29.166667% {
     opacity: 1;
   }
-  60.769231% {
+  32.916667% {
     opacity: 1;
   }
-  61.538462% {
+  33.333333% {
     opacity: 0;
   }
-  68.461538% {
+  37.083333% {
     opacity: 0;
   }
-  69.230769% {
+  37.5% {
     opacity: 1;
   }
-  76.153846% {
+  41.25% {
     opacity: 1;
   }
-  76.923077% {
+  41.666667% {
     opacity: 0;
   }
-  83.846154% {
+  45.416667% {
     opacity: 0;
   }
-  84.615385% {
+  45.833333% {
     opacity: 1;
   }
-  91.538462% {
+  49.583333% {
     opacity: 1;
   }
-  92.307692% {
+  50% {
     opacity: 0;
+  }
+  53.75% {
+    opacity: 0;
+  }
+  54.166667% {
+    opacity: 1;
+  }
+  57.916667% {
+    opacity: 1;
+  }
+  58.333333% {
+    opacity: 0;
+  }
+  62.083333% {
+    opacity: 0;
+  }
+  62.5% {
+    opacity: 1;
+  }
+  66.25% {
+    opacity: 1;
+  }
+  66.666667% {
+    opacity: 0;
+  }
+  70.416667% {
+    opacity: 0;
+  }
+  70.833333% {
+    opacity: 1;
+  }
+  74.583333% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 0;
+  }
+  78.75% {
+    opacity: 0;
+  }
+  79.166667% {
+    opacity: 1;
+  }
+  82.916667% {
+    opacity: 1;
+  }
+  83.333333% {
+    opacity: 0;
+  }
+  87.083333% {
+    opacity: 0;
+  }
+  87.5% {
+    opacity: 1;
+  }
+  91.25% {
+    opacity: 1;
+  }
+  91.666667% {
+    opacity: 0;
+  }
+  95.416667% {
+    opacity: 0;
+  }
+  95.833333% {
+    opacity: 1;
+  }
+  99.583333% {
+    opacity: 1;
   }
   100% {
     opacity: 0;
   }
 }
-
-/*
- * Note: with an odd number of images, the final image-to-first-image
- * loop is an instant layer reset. Use an even image count for a fully
- * seamless crossfade around the entire loop.
- */
